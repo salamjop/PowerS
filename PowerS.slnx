@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PowerS/PowerS.vcxproj" Id="91bcc57d-34c4-49d9-9666-691d7c08cc47" />
+</Solution>
